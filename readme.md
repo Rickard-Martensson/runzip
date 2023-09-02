@@ -1,5 +1,6 @@
 # Runzip
 
+Simple program that unzips/decompresses/dewinrarifies whatever you throw at it.
 
 ## Installation
 
