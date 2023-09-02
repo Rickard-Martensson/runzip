@@ -32,6 +32,20 @@ Replace `/path/to/your/runzip.py` with the actual path where you have `runzip.py
 
 For me, that is `/home/rickard/Code/python/runzip/runzip.py`
 
+## Dependencies
+
+Before using the `runzip.py` script, make sure you have the following dependencies installed on your Arch Linux system:
+
+- `unzip`: For extracting ZIP files.
+- `tar`: For extracting TAR files.
+- `gzip`: For decompressing GZ files.
+
+You can install these dependencies using the `pacman` package manager. Open a terminal and run the following command:
+
+```bash
+sudo pacman -S unzip tar gzip
+```
+
 ## Usage
 
 To unzip a file, simply type
