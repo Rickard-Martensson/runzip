@@ -2,7 +2,6 @@
 
 import os
 import sys
-
 import shlex
 
 def unzip_file(filename):

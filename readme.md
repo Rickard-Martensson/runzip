@@ -41,6 +41,12 @@ To unzip a file, simply type
 runzip <filename>
 ```
 
+If you want to test it out, you can use any of the 4 sample files. ie:
+```bash
+runzip sample_zipped/sample.tar.bz2
+```
+Good luck!
+
 ## Supported File Types
 - .zip
 - .tar
