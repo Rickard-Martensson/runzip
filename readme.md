@@ -40,6 +40,7 @@ Before using the `runzip.py` script, make sure you have the following dependenci
 - `unzip`: For extracting ZIP files.
 - `tar`: For extracting TAR files.
 - `gzip`: For decompressing GZ files.
+- `p7zip`: For decompressing 7z files.
 
 You can install these dependencies using the `pacman` package manager. Open a terminal and run the following command:
 
